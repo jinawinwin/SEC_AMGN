@@ -1,6 +1,12 @@
 # Amgen (NASDAQ: AMGN) — SEC Financial Dashboard
 
-<p align="center"><a href="https://jinawinwin.github.io/SEC_AMGN/"><b>🔗 대시보드 바로가기</b></a></p>
+<p align="center">
+  <a href="https://jinawinwin.github.io/SEC_AMGN/">
+    <img src="assets/amgen-badge.svg" alt="Amgen — 대시보드 바로가기" width="320">
+  </a>
+  <br>
+  <a href="https://jinawinwin.github.io/SEC_AMGN/"><b>🔗 대시보드 바로가기</b></a>
+</p>
 
 SEC EDGAR의 Amgen Inc. (CIK 0000318154) 10-K 및 10-Q XBRL 자료를 바탕으로 2010년 이후 재무 데이터를 수집하고 연간·반기·분기별 성과와 재무비율을 분석합니다. 본 저장소는 **단일 기업 분석**이며 peer 기업 비교는 포함하지 않습니다.
 
