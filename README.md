@@ -6,7 +6,7 @@ SEC EDGAR의 Amgen Inc. (CIK 0000318154) 10-K 및 10-Q XBRL 자료를 바탕으�
 
 **대시보드:** https://jinawinwin.github.io/SEC_AMGN/
 
-마지막 데이터 갱신: <!-- UPDATED:START -->대시보드 최초 실행 후 자동 갱신<!-- UPDATED:END -->
+마지막 데이터 갱신: <!-- UPDATED:START -->2026-10-31 (latest 10-K/10-Q on file: 2026-08-05)<!-- UPDATED:END -->
 
 ## 대시보드 구성
 - 상단: Revenue, Operating income, Net income, Free cash flow, 최근 분기 매출 KPI

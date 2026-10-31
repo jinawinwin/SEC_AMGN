@@ -1,0 +1,86 @@
+[
+ {
+  "form": "10-Q",
+  "filed": "2026-08-05",
+  "report_date": "2026-06-30",
+  "accession": "0000318154-26-000126",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000126/amgn-20260630.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2026-05-01",
+  "report_date": "2026-03-31",
+  "accession": "0000318154-26-000057",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000057/amgn-20260331.htm"
+ },
+ {
+  "form": "10-K",
+  "filed": "2026-02-13",
+  "report_date": "2025-12-31",
+  "accession": "0000318154-26-000010",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000010/amgn-20251231.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2025-11-05",
+  "report_date": "2025-09-30",
+  "accession": "0000318154-25-000072",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000072/amgn-20250930.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2025-08-06",
+  "report_date": "2025-06-30",
+  "accession": "0000318154-25-000056",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000056/amgn-20250630.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2025-05-02",
+  "report_date": "2025-03-31",
+  "accession": "0000318154-25-000020",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000020/amgn-20250331.htm"
+ },
+ {
+  "form": "10-K",
+  "filed": "2025-02-14",
+  "report_date": "2024-12-31",
+  "accession": "0000318154-25-000010",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815425000010/amgn-20241231.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2024-10-31",
+  "report_date": "2024-09-30",
+  "accession": "0000318154-24-000044",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000044/amgn-20240930.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2024-08-07",
+  "report_date": "2024-06-30",
+  "accession": "0000318154-24-000035",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000035/amgn-20240630.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2024-05-03",
+  "report_date": "2024-03-31",
+  "accession": "0000318154-24-000020",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000020/amgn-20240331.htm"
+ },
+ {
+  "form": "10-K",
+  "filed": "2024-02-14",
+  "report_date": "2023-12-31",
+  "accession": "0000318154-24-000011",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815424000011/amgn-20231231.htm"
+ },
+ {
+  "form": "10-Q",
+  "filed": "2023-10-31",
+  "report_date": "2023-09-30",
+  "accession": "0000318154-23-000064",
+  "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815423000064/amgn-20230930.htm"
+ }
+]
